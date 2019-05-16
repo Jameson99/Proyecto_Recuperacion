@@ -1,0 +1,11 @@
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\bin\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.deps.json
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\bin\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.runtimeconfig.json
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\bin\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.runtimeconfig.dev.json
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\bin\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.dll
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\bin\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.pdb
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\obj\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.csprojAssemblyReference.cache
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\obj\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.csproj.CoreCompileInputs.cache
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\obj\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.AssemblyInfoInputs.cache
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\obj\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.AssemblyInfo.cs
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\obj\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.dll
+C:\Users\Jameson\Desktop\Unidad 4 POO\P.-MenuComida-Jameson Romeo Clark Olivares-\P.-MenuComida-Jameson Romeo Clark Olivares-\obj\Debug\netcoreapp2.2\P.-MenuComida-Jameson Romeo Clark Olivares-.pdb
